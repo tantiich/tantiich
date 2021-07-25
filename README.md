@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo Semua 👋
 
 <!--
 **tantiich/tantiich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya **Tanti Cahya Herdiyani**.\
+
+Saya seorang mahasiswa Teknik Informatika di [Universitas Pamulang](http://unpam.ac.id/).\ 
+Saya juga merupakan siswa di [Dicoding](https://www.dicoding.com/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tanti-cahya-h-095316212/)ku ya.
