@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Perkenalkan nama saya **Tanti Cahya Herdiyani**.\
+Perkenalkan nama saya **Tanti Cahya Herdiyani**.
 
-Saya seorang mahasiswa Teknik Informatika di [Universitas Pamulang](http://unpam.ac.id/).\ 
-Saya juga merupakan siswa di [Dicoding](https://www.dicoding.com/).\
+Saya seorang mahasiswa Teknik Informatika di [Universitas Pamulang](http://unpam.ac.id/). 
+Saya juga merupakan siswa di [Dicoding](https://www.dicoding.com/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tanti-cahya-h-095316212/)ku ya.
